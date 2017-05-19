@@ -52,6 +52,14 @@
         android:textColor="#ecf0f1"
         android:textSize="15sp"/>
 
+    <Button
+        android:id="@+id/againButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/storyTextView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="51dp"
+        android:text="@string/Play_Again"/>
 
 
 </RelativeLayout>
